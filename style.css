@@ -1132,6 +1132,7 @@ a {
 #diagnose .diagnose-container .diagnose-lung-cancer .lung-cancer-right .start-btn:hover .onHover {
     display: inline-block;
     transition: all 4s ease-in;
+    color: rgba(8, 255, 102, 0.8);
 }
 
 
